@@ -1,3 +1,5 @@
+# Basic code to solve differential equations in [Herd immunity thresholds for SARS-CoV-2 estimated from unfolding epidemics](https://www.medrxiv.org/content/10.1101/2020.07.23.20160762v2)
+
 Core models of COVID19 accounting for individual variation in susceptibility or exposure to infection implemented in MATLAB.
 
 These models were analysed and used to analyse the #SARSCoV2 pandemic in our 2 medRxiv preprints. 
@@ -12,8 +14,6 @@ immunity thresholds for SARS-CoV-2 estimated from unfolding epidemics](https://w
 Neither has completed peer review yet. We will continue to update and add code to this repository and post preprints with new analyses. 
 
 Happy to take comments and suggestions. Happy to collaborate. Keep well!
-
-## Basic code to solve differential equations in [Herd immunity thresholds for SARS-CoV-2 estimated from unfolding epidemics](https://www.medrxiv.org/content/10.1101/2020.07.23.20160762v2)
 
 ## How to generate plots in Figures 1, 2, and Extended Data Figure 5:
 
